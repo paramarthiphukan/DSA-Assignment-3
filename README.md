@@ -1,4 +1,4 @@
-Assignment-2 Submitted by:- Piyush Musaddi Scholar Id- 2012187 CSE Sec-B Course code: CS201 National Institute of Technology, Silchar
+Assignment-2 Submitted by:- Paramarthi Phukan Scholar Id- 2012097 CSE Sec-B Course code: CS201 National Institute of Technology, Silchar
 
 Questions:- Assignment III CS-201 Data Structures
 
